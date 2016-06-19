@@ -77,7 +77,7 @@ body {
 	background-repeat: no-repeat;*/
 
 	background: url(http://static.tumblr.com/fa1168dc8ff4df0526d0fc9707d5c9fb/rflcg3z/FV0nhjeku/tumblr_static_9hb9cmokwhkwcwcggwc8wg40s.jpg) no-repeat;
-	background-position: left top; 
+	background-size: cover; 
 	background-attachment: fixed;
 	opacity: 90%;
 }
