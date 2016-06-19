@@ -15,8 +15,8 @@ h3 {
 } 
 
 div.jumbotron.jumbotron-fluid.antigray {
-	background-color: rgba(219, 10, 91, 0.5);
-	height: 200px;
+	background-color: rgba(219, 10, 91, 0.3);
+	height: 760px;
 	width: 400px;
 	margin: auto;
 }
@@ -251,7 +251,7 @@ a:active {
 }
 
 .sub-menu li a:hover, .sub-menu .current-item a {
-	background:black;
+	background:white;
 }
 
 #social-media {
@@ -265,15 +265,22 @@ a:active {
 }
 
 
-footer {
+.footer {
 	font-family: 'Raleway', Helvetica;
-	text-align: center;
 	font-size: 14px;
-	padding: 150px;
-	height: 10px;
+	padding: 1rem;
 	color: white;
+	right: 0; 
+	bottom: 0;
+	left: 0;
+	text-align: center;
 }
-
+.footer{
+	background-color: rgba(219, 10, 91, 0.3);
+	height: 5px;
+	width: 400px;
+	margin: auto
+}
 
 
 
